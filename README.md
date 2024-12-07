@@ -1,2 +1,3 @@
 # ChemSimChemSimIntroduction
 ChemicalObjectives
+SetupGuide
