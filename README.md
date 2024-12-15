@@ -4,3 +4,4 @@ SetupGuide
 ProcessFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
