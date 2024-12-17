@@ -5,3 +5,4 @@ ProcessFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
