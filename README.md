@@ -6,3 +6,4 @@ DependenciesList
 CodeExamples
 ConfigurationSettings
 ContributionGuide
+ErrorHandling
