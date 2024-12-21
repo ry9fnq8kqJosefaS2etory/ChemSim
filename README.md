@@ -7,3 +7,4 @@ CodeExamples
 ConfigurationSettings
 ContributionGuide
 ErrorHandling
+LicenseDetails
