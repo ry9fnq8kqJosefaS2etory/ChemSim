@@ -8,3 +8,4 @@ ConfigurationSettings
 ContributionGuide
 ErrorHandling
 LicenseDetails
+ChemicalFAQ
