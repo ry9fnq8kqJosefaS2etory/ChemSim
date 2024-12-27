@@ -10,3 +10,4 @@ ErrorHandling
 LicenseDetails
 ChemicalFAQ
 Changelog
+TestingInstructions
