@@ -12,3 +12,4 @@ ChemicalFAQ
 Changelog
 TestingInstructions
 ProcessPerformance
+CommunityResources
